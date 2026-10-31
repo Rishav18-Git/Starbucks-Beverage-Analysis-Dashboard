@@ -42,12 +42,12 @@ Starbucks operates worldwide.
 - Dashboard design and storytelling
 
 ## 📁 Repository Structure
-'''
+
 ├── dashboard/   → Power BI file (.pbix)
 ├── data/        → Source datasets (CSV)
 ├── images/      → Dashboard screenshot
 └── README.md
-'''
+
 
 ## ▶️ How to Open
 1. Download 'dashboard/starbucks-analysis.pbix'
